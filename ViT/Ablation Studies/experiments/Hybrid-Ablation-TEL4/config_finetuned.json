@@ -1,0 +1,22 @@
+{
+    "attention_probs_dropout_prob": 0.25,
+    "batch_size": 3,
+    "epochs": 50,
+    "exp_name": "3D ViT Ablation",
+    "hidden_dropout_prob": 0.25,
+    "hidden_size": 216,
+    "image_size": 192,
+    "initializer_range": 0.02,
+    "intermediate_size": 648,
+    "lr": 8e-05,
+    "model_name": "Hybrid-Ablation-TEL4",
+    "num_attention_heads": 8,
+    "num_channels": 1,
+    "num_classes": 3,
+    "num_hidden_layers": 4,
+    "patch_size": 6,
+    "qkv_bias": true,
+    "save_model_every": 0,
+    "use_faster_attention": true,
+    "weight_base_dir": "/home/admin1/Arindam/Alzheimer/ViT/Ablation Studies/experiments/"
+}

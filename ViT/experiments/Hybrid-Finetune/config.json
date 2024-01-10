@@ -1,0 +1,22 @@
+{
+    "attention_probs_dropout_prob": 0.25,
+    "batch_size": 3,
+    "chkp-file": "/home/admin1/Arindam/Alzheimer/ViT/experiments/3D ViT Final/model_best.pt",
+    "epochs": 50,
+    "exp_name": "3D ViT Finetune",
+    "hidden_dropout_prob": 0.25,
+    "hidden_size": 216,
+    "image_size": 192,
+    "initializer_range": 0.02,
+    "intermediate_size": 648,
+    "lr": 1e-05,
+    "model_name": "Hybrid-Finetune",
+    "num_attention_heads": 8,
+    "num_channels": 1,
+    "num_classes": 3,
+    "num_hidden_layers": 3,
+    "patch_size": 6,
+    "qkv_bias": true,
+    "save_model_every": 0,
+    "use_faster_attention": true
+}

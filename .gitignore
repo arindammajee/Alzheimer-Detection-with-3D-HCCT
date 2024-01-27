@@ -5,3 +5,4 @@ ViT/data/*
 Data/*
 PreprocessedData/*
 *.pt
+*.ipynb

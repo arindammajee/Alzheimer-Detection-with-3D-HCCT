@@ -1,6 +1,6 @@
 ## Improving Alzheimer’s Disease Classification with Explainable 3D Hybrid Compact Convolutional Transformers using MRI
 
-This repository contains all codes related to our paper [Improving Alzheimer’s Disease Classification with Explainable 3D Hybrid Compact Convolutional Transformers using MRI](Improving Alzheimer’s Disease Classification with Explainable 3D Hybrid Compact Convolutional Transformers using MRI).
+This repository contains all codes related to our paper [Improving Alzheimer’s Disease Classification with Explainable 3D Hybrid Compact Convolutional Transformers using MRI](https://arxiv.org/abs/2403.16175).
 
 
 ## Requirements

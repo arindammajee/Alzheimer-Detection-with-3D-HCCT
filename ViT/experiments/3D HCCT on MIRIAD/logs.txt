@@ -1,0 +1,29 @@
+Epoch: 1, Train loss: 0.5024, Train Acc: 0.7253, Val loss: 0.6128, Val Acc: 0.8000, Time: 0.8min (0.8 min/epoch)
+	Save best checkpoint at epoch 1
+Epoch: 2, Train loss: 0.2458, Train Acc: 0.8929, Val loss: 0.2003, Val Acc: 0.9143, Time: 1.5min (0.8 min/epoch)
+	Save best checkpoint at epoch 2
+Epoch: 3, Train loss: 0.0770, Train Acc: 0.9798, Val loss: 0.0529, Val Acc: 0.9905, Time: 2.3min (0.8 min/epoch)
+	Save best checkpoint at epoch 3
+Epoch: 4, Train loss: 0.1410, Train Acc: 0.9495, Val loss: 0.0937, Val Acc: 0.9714, Time: 3.1min (0.8 min/epoch)
+Epoch: 5, Train loss: 0.0309, Train Acc: 0.9919, Val loss: 0.0009, Val Acc: 1.0000, Time: 3.8min (0.8 min/epoch)
+	Save best checkpoint at epoch 5
+Epoch: 6, Train loss: 0.0016, Train Acc: 1.0000, Val loss: 0.0003, Val Acc: 1.0000, Time: 4.6min (0.8 min/epoch)
+	Save best checkpoint at epoch 6
+Epoch: 7, Train loss: 0.0008, Train Acc: 1.0000, Val loss: 0.0002, Val Acc: 1.0000, Time: 5.4min (0.8 min/epoch)
+	Save best checkpoint at epoch 7
+Epoch: 8, Train loss: 0.0005, Train Acc: 1.0000, Val loss: 0.0001, Val Acc: 1.0000, Time: 6.1min (0.8 min/epoch)
+	Save best checkpoint at epoch 8
+Epoch: 9, Train loss: 0.0004, Train Acc: 1.0000, Val loss: 0.0001, Val Acc: 1.0000, Time: 6.9min (0.8 min/epoch)
+	Save best checkpoint at epoch 9
+Epoch: 10, Train loss: 0.0003, Train Acc: 1.0000, Val loss: 0.0001, Val Acc: 1.0000, Time: 7.6min (0.8 min/epoch)
+	Save best checkpoint at epoch 10
+Epoch: 11, Train loss: 0.0002, Train Acc: 1.0000, Val loss: 0.0000, Val Acc: 1.0000, Time: 8.4min (0.8 min/epoch)
+	Save best checkpoint at epoch 11
+Epoch: 12, Train loss: 0.0002, Train Acc: 1.0000, Val loss: 0.0000, Val Acc: 1.0000, Time: 9.1min (0.8 min/epoch)
+	Save best checkpoint at epoch 12
+Epoch: 13, Train loss: 0.0002, Train Acc: 1.0000, Val loss: 0.0000, Val Acc: 1.0000, Time: 9.9min (0.8 min/epoch)
+	Save best checkpoint at epoch 13
+Epoch: 14, Train loss: 0.0001, Train Acc: 1.0000, Val loss: 0.0000, Val Acc: 1.0000, Time: 10.6min (0.8 min/epoch)
+	Save best checkpoint at epoch 14
+Epoch: 15, Train loss: 0.0001, Train Acc: 1.0000, Val loss: 0.0000, Val Acc: 1.0000, Time: 11.4min (0.8 min/epoch)
+	Save best checkpoint at epoch 15

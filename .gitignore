@@ -4,4 +4,6 @@
 ViT/data/*
 Data/*
 PreprocessedData/*
-*.pt
+*.ipynb
+.ipynb_checkpoints/
+ViT/wandb/*

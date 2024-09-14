@@ -1,0 +1,19 @@
+{
+    "ignore": [
+        "NIFTI_UNIT",
+        "INCONSISTENT_PARAMETERS",
+        "SLICE_TIMING_NOT_DEFINED",
+        "NIFTI_PIXDIM4",
+        "BOLD_NOT_4D",
+        "REPETITION_TIME_MUST_DEFINE",
+        "TASK_NAME_MUST_DEFINE",
+        "MISSING_SESSION",
+        "INCONSISTENT_SUBJECTS",
+        "SCANS_FILENAME_NOT_MATCH_DATASET",
+        "CUSTOM_COLUMN_WITHOUT_DESCRIPTION",
+        "NO_AUTHORS"
+    ],
+    "warn": [],
+    "error": [],
+    "ignoredFiles": []
+}

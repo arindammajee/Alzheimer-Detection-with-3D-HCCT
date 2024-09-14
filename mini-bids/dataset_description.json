@@ -1,0 +1,5 @@
+{
+    "Name": "ADNI",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw"
+}
